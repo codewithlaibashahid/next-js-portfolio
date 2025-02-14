@@ -17,7 +17,7 @@ const Navbar = () => {
           />{" "}{" "}
         </div>
         <h1 className="italic text-white text-[25px] font-bold">
-          Tayyaba{" "}
+          Laiba{" "}
           <span className="italic text-white text-[25px] font-bold">
             Shahid{" "}{" "}
           </span>
